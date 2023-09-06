@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Androidapp0904</string>
-    <string name= "text">basketball!</string>
-    <string name= "meijo_u">Meijo Univercity!</string>
+    <string name="text">basketball!</string>
+    <string name="meijo_u">Meijo Univercity!</string>
 </resources>

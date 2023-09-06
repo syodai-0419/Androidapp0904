@@ -64,10 +64,10 @@ public class MainActivity extends AppCompatActivity {
                 binding.text.setText(editable.toString());
             }
         });
+         */
     }
-    */
 
-    @Override
+
     protected void onStart() {
         super.onStart();
         //onCreate() から処理を消し、onStart() に移動する
